@@ -1,5 +1,10 @@
 # CLAUDE Project Overview
 
+
+## Instructions
+Read /.claude folder with all the instruction before start of research.
+
+
 ## Purpose
 This project is designed to support day-to-day activities through a set of purpose-built agents and reusable prompts. It is organized around the idea that many routine tasks can be accelerated by specialized assistants that each bring the right focus, voice, and skill set.
 

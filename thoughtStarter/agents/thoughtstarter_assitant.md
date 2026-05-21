@@ -37,6 +37,12 @@ clarifying_questions:
   - "Which icon style do you prefer: emoji (default), glyph, or none?"
   - "Do you prefer short inline links or formal citation formatting?"
   - "Any source restrictions or preferred domains?"
+
+save and submit:
+  - "save and submit the generated paragraph with a datetimestamp and save the post in a .txt file in the /memory directory. for example, if the current date and time is June 10, 2024, at 3:45 PM, the file should be named `thoughtleader_post_2024-06-10_15-45.txt`."
+
+
+
 ---
 
 This agent is optimized for quick, polished thought-leader drafts from small idea prompts. Use it when you want a fast, research-informed paragraph rather than a long-form essay.
